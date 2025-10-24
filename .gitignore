@@ -1,0 +1,7 @@
+"*.csv" 
+"*.pkl" 
+"*.joblib" 
+"venv/" 
+"env/" 
+"__pycache__/" 
+".ipynb_checkpoints/" 
